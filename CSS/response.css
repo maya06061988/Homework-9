@@ -1,0 +1,184 @@
+@media screen and (max-width: 1400px) {
+    .img-block-2 {
+      display: none;
+    }
+    
+    p {
+        font-size: 18px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+  }
+
+@media screen and (max-width: 1200px) {
+  .img-block-2 {
+    display: none;
+  } 
+  
+  p {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 20px;
+}
+}
+
+@media screen and (max-width: 1090px) {
+    p {
+        font-size: 17px;
+    }
+    
+    h4 {
+        font-size: 19px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    p {
+        font-size: 16px;
+    }
+    
+    h4 {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    p {
+        font-size: 15px;
+    }
+    
+    h4 {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+  .img-block-2 {
+    display: none;
+  } 
+  p {
+    font-size: 15px;
+}
+
+h4 {
+    font-size: 17px;
+} 
+}
+
+@media screen and (max-width: 800px) {
+  .img-block {
+    display: none;
+  }
+  .img-block-2 {
+    display: flex;
+    flex: 1;
+    gap: 10px;
+}
+.cat1 {
+    width: 50%;
+}
+
+.text-block {
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 678px) {
+  .img-block {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px) {
+   .img-block {
+    display: none;
+   }
+
+   .img-block-2 {
+    flex-direction: column;
+   }
+
+   .cat1 {
+    width: 100%;
+   }
+}
+
+@media screen and (max-width: 550px) {
+    .img-block {
+        display: none;
+      }
+
+      .conteiner {
+        margin: 0;
+        max-width: 550px;
+      }
+
+    .img-block-2 {
+        flex-direction: column;
+       }
+
+    .cat1 {
+        width: 100%;
+       }
+}
+
+@media screen and (max-width: 450px) {
+    .img-block {
+        display: none;
+      }
+
+      .conteiner {
+        margin: 0;
+        max-width: 450px;
+      }
+
+    .img-block-2 {
+        flex-direction: column;
+       }
+
+    .cat1 {
+        width: 100%;
+       }
+}
+
+@media screen and (max-width: 330px) {
+    .img-block {
+        display: none;
+      }
+
+      .conteiner {
+        margin: 0;
+        max-width: 330px;
+      }
+
+    .img-block-2 {
+        flex-direction: column;
+       }
+
+    .cat1 {
+        width: 100%;
+       }
+}
+
+@media screen and (max-width: 320px) {
+    .img-block {
+        display: none;
+      }
+
+      .conteiner {
+        margin: 0;
+        max-width: 320px;
+      }
+
+    .img-block-2 {
+        flex-direction: column;
+       }
+
+    .cat1 {
+        width: 100%;
+       }
+}
